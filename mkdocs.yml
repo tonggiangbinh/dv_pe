@@ -1,0 +1,10 @@
+site_name: Tài Liệu Khách Hàng
+theme:
+  name: material  # Giao diện hiện đại nhất hiện nay
+  palette:
+    primary: indigo
+  features:
+    - navigation.sections
+    - search.share
+plugins:
+  - search
